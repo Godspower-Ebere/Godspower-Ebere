@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React & Django**
 
-- 💬 Ask me about **React,HTML, CSS, Javascript, Tailwind CSS**
+- 💬 Ask me about **React, HTML, CSS, Javascript, Tailwind CSS**
 
 - 📫 How to reach me **eberechukwurosemary2021@gmail.com**
 
