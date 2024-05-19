@@ -5,7 +5,7 @@
 <h3 align="center">Passionate FullStack Developer | Based in Nigeria</h3>
 
 <p> 
- 🚀 With over 2 years of hands-on experience, I specialize in crafting robust web applications, backed by a versatile skill set covering a wide range of programming languages, frameworks, and libraries. 💼 My expertise spans front-end technologies like HTML, CSS, Tailwind, and React.js, as well as back-end technologies including Node.js, PHP, and Django. 🌐 Proficient in managing both SQL databases (MySQL) and NoSQL databases (MongoDB), I excel in database management. 🔍 Committed to staying at the forefront of industry trends and technologies, I continually refine my skills to deliver innovative and cutting-edge solutions. Let's build something remarkable together!
+ 🚀 With over 3+ years of experience in the industry, I specialize in crafting robust web applications, backed by a versatile skill set covering a wide range of programming languages, frameworks, and libraries. 💼 My expertise spans front-end technologies like HTML, CSS, Tailwind, and React.js, as well as back-end technologies including Node.js, PHP, and Django. 🌐 Proficient in managing both SQL databases (MySQL) and NoSQL databases (MongoDB), I excel in database management. 🔍 Committed to staying at the forefront of industry trends and technologies, I continually refine my skills to deliver innovative and cutting-edge solutions. Let's build something remarkable together!
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="godspower-ebere" />
 
